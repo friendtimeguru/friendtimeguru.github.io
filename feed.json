@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "officialtech",
+    "description": "",
+    "home_page_url": "https://officialtech.blog",
+    "feed_url": "https://officialtech.blog/feed.json",
+    "user_comment": "",
+    "icon": "https://officialtech.blog/media/website/s-l1600.jpg",
+    "author": {
+        "name": "malte"
+    },
+    "items": [
+        {
+            "id": "https://officialtech.blog/officialtechblog.html",
+            "url": "https://officialtech.blog/officialtechblog.html",
+            "title": "Officialtech.blog",
+            "summary": "Willkommen auf meinem Blog",
+            "content_html": "<h1>Willkommen auf meinem Blog</h1>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://officialtech.blog/media/posts/2/sandpit-2148720_640.jpg\" alt=\"\" width=\"640\" height=\"374\" sizes=\"100vw\" srcset=\"https://officialtech.blog/media/posts/2/responsive/sandpit-2148720_640-xs.jpg 300w ,https://officialtech.blog/media/posts/2/responsive/sandpit-2148720_640-sm.jpg 480w ,https://officialtech.blog/media/posts/2/responsive/sandpit-2148720_640-md.jpg 768w ,https://officialtech.blog/media/posts/2/responsive/sandpit-2148720_640-lg.jpg 1024w ,https://officialtech.blog/media/posts/2/responsive/sandpit-2148720_640-xl.jpg 1360w ,https://officialtech.blog/media/posts/2/responsive/sandpit-2148720_640-2xl.jpg 1600w\"></figure>\n<p> </p>",
+            "author": {
+                "name": "malte"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-03-30T23:52:51+01:00",
+            "date_modified": "2024-03-30T23:52:51+01:00"
+        }
+    ]
+}

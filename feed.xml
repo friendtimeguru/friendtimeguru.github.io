@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>officialtech</title>
+    <link href="https://officialtech.blog/feed.xml" rel="self" />
+    <link href="https://officialtech.blog" />
+    <updated>2024-03-30T23:52:51+01:00</updated>
+    <author>
+        <name>malte</name>
+    </author>
+    <id>https://officialtech.blog</id>
+
+    <entry>
+        <title>Officialtech.blog</title>
+        <author>
+            <name>malte</name>
+        </author>
+        <link href="https://officialtech.blog/officialtechblog.html"/>
+        <id>https://officialtech.blog/officialtechblog.html</id>
+
+        <updated>2024-03-30T23:52:51+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Willkommen auf meinem Blog
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Willkommen auf meinem Blog</h1>
+<figure class="post__image"><img loading="lazy"  src="https://officialtech.blog/media/posts/2/sandpit-2148720_640.jpg" alt="" width="640" height="374" sizes="100vw" srcset="https://officialtech.blog/media/posts/2/responsive/sandpit-2148720_640-xs.jpg 300w ,https://officialtech.blog/media/posts/2/responsive/sandpit-2148720_640-sm.jpg 480w ,https://officialtech.blog/media/posts/2/responsive/sandpit-2148720_640-md.jpg 768w ,https://officialtech.blog/media/posts/2/responsive/sandpit-2148720_640-lg.jpg 1024w ,https://officialtech.blog/media/posts/2/responsive/sandpit-2148720_640-xl.jpg 1360w ,https://officialtech.blog/media/posts/2/responsive/sandpit-2148720_640-2xl.jpg 1600w"></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
