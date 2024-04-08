@@ -3,16 +3,16 @@
     <title>officialtech.blog</title>
     <link href="https://officialtech.blog/feed.xml" rel="self" />
     <link href="https://officialtech.blog" />
-    <updated>2024-04-07T09:31:50+02:00</updated>
+    <updated>2024-04-08T13:29:19+02:00</updated>
     <author>
-        <name>malte</name>
+        <name>officialtech.blog</name>
     </author>
     <id>https://officialtech.blog</id>
 
     <entry>
         <title>NES OVP Varianten</title>
         <author>
-            <name>malte</name>
+            <name>officialtech.blog</name>
         </author>
         <link href="https://officialtech.blog/nes-ovp-varianten.html"/>
         <id>https://officialtech.blog/nes-ovp-varianten.html</id>
@@ -20,13 +20,12 @@
         <updated>2024-04-06T23:18:06+02:00</updated>
             <summary>
                 <![CDATA[
-                    NES OVP Varianten Am Beispiel vom Spiel "Super Mario Bros" möchte ich euch die verschiedenen Varianten der OVP (Originalverpackungen) zeigen. Ich werde dabei chronologisch vorgehen. Folgenden Varianten bin ich bisher begenet: Die frühesten Varianten scheinen fünf Schrauben zu haben und auf dem Modul und der&hellip;
+                    Am Beispiel vom Spiel "Super Mario Bros" möchte ich euch die verschiedenen Varianten der OVP (Originalverpackungen) zeigen. Ich werde dabei chronologisch vorgehen. Folgenden Varianten bin ich bisher begenet: Die frühesten Varianten scheinen fünf Schrauben zu haben und auf dem Modul und der OVP fehlt das&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <h1>NES OVP Varianten</h1>
-<p>Am Beispiel vom Spiel "Super Mario Bros" möchte ich euch die verschiedenen Varianten der OVP (Originalverpackungen) zeigen. Ich werde dabei chronologisch vorgehen. Folgenden Varianten bin ich bisher begenet:</p>
+                <p>Am Beispiel vom Spiel "Super Mario Bros" möchte ich euch die verschiedenen Varianten der OVP (Originalverpackungen) zeigen. Ich werde dabei chronologisch vorgehen. Folgenden Varianten bin ich bisher begenet:</p>
 <h2>Bienengräber Verpackung ohne SoQ</h2>
 <p>Die frühesten Varianten scheinen fünf Schrauben zu haben und auf dem Modul und der OVP fehlt das TM (Trademark) Zeichen. Folgende Spiele scheinen ohne das TM Symbol zu existieren: Excite Bike, Ice Climber, Pinball, Mario Bros., Popeye und  Tennis.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
@@ -37,6 +36,7 @@
 <figcaption>mit TM</figcaption>
 </figure>
 </div></div>
+<p class="align-center"><em>(hier am Beispiel von Tennis)</em></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://officialtech.blog/media/posts/3/gallery/s-l16002.jpg" data-size="1600x1600"><img loading="lazy" src="https://officialtech.blog/media/posts/3/gallery/s-l16002-thumbnail.jpg" alt="ice lclimber" width="720" height="720"></a>
 <figcaption>ohne TM</figcaption>
@@ -107,7 +107,7 @@
     <entry>
         <title>Officialtech.blog</title>
         <author>
-            <name>malte</name>
+            <name>officialtech.blog</name>
         </author>
         <link href="https://officialtech.blog/officialtechblog.html"/>
         <id>https://officialtech.blog/officialtechblog.html</id>
